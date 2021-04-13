@@ -1,0 +1,46 @@
+body {
+  background: rgb(228, 240, 240);
+  position: relative;
+  font: 400 14px Roboto, sans-serife;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(241, 232, 231);
+  border-radius: 3%;
+  align-items: center;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#title {
+  margin-bottom: -10px;
+  font-weight: 300rem;
+  font-size: 2.5rem;
+}
+
+#image {
+  border-radius: 5%;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  font-style: italic;
+  color: rgb(53, 36, 48);
+}
+
+#tribute-info {
+  text-align: justify;
+  font-weight: 250rem;
+}
+
+a:hover {
+  color: rgb(243, 59, 59);
+}
+
+footer {
+  font-size: 1rem;
+}
