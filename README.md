@@ -9,7 +9,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JulianaVelasques/tributepage">
   </a>
 
-  <a href="https://github.com/Silve1ra/be-the-hero/issues">
+  <a href="https://github.com/JulianaVelasques/tributepage/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/JulianaVelasques/tributepage">
   </a>
 
@@ -42,7 +42,7 @@ This is an application of a Tribute Page to the best man that ever walk in the e
 
 ## 🤔 How to Contribute
 
-- Clone the project: `git@github.com:JulianaVelasques/surveyform`;
+- Clone the project: `git@github.com:JulianaVelasques/tributepage`;
 - Create your branch with your feature: `git checkout -b my-feature`;
 - Commit your feature: `git commit -m 'feat: My new feature'`;
 - Push to your branch: `git push -u origin my-feature`.
